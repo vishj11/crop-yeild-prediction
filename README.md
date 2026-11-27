@@ -2,7 +2,8 @@
 
 A Streamlit application that uses Ridge Regression and historical agricultural data to estimate district-level crop yields in India. It supports **Rice, Wheat, and Maize** and shows the historical yields behind each prediction.
 
-![Crop Yield Prediction System](assets/application.png)
+<img width="422" height="890" alt="application" src="https://github.com/user-attachments/assets/fa4d081e-7e77-434d-9ff3-6495d2806182" />
+
 
 *Streamlit interface showing a historical Rice prediction and model performance.*
 
