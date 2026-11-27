@@ -1,0 +1,4 @@
+Crop,Source_Records,Clean_Records,Records_Excluded_For_Quality,Records_Removed_For_History,Feature_Records,First_Year,Last_Year,Years_Represented,States,District_Codes,Missing_Area,Missing_Production,Missing_Yield,Yield_Min_kg_ha,Yield_Median_kg_ha,Yield_Mean_kg_ha,Yield_Std_kg_ha,Yield_Max_kg_ha,Train_Records,Validation_Records,Test_Records
+Rice,12418,11545,873,1059,10486,1978,2017,40,20,311,0,0,0,9.73,1651.04,1759.7366487656993,915.5734462069906,5653.83,7998,1118,1370
+Wheat,12418,10599,1819,1028,9571,1978,2017,40,20,311,0,0,0,74.32,1780.98,1946.4576771393529,970.443172182586,5541.52,7243,1043,1285
+Maize,12418,11021,1397,1235,9786,1978,2017,40,20,311,0,0,0,6.06,1464.65,1760.8108619907448,1200.6369535136437,21428.57,7350,1091,1345

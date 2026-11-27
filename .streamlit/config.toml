@@ -1,0 +1,3 @@
+[theme]
+# Keep Streamlit's light/dark surfaces and use one restrained agricultural accent.
+primaryColor = "#4F8063"

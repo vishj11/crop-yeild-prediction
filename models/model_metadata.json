@@ -1,0 +1,44 @@
+{
+  "selected_configuration": {
+    "Configuration": "C04",
+    "Model": "Ridge",
+    "With_Year": true,
+    "Exclude_Flagged_Training": false,
+    "Min_Samples_Leaf": null
+  },
+  "target": "Yield (kg/ha)",
+  "input_features": [
+    "Crop",
+    "State",
+    "District_Code",
+    "Previous_Year_Yield",
+    "Previous_3_Year_Avg_Yield",
+    "Year"
+  ],
+  "fit_years": [
+    1981,
+    2012
+  ],
+  "fit_records": 25843,
+  "flagged_records_excluded_from_final_fit": 0,
+  "validation_metrics_before_refit": {
+    "MAE_kg_ha": 326.0085716447544,
+    "RMSE_kg_ha": 484.3184692962816,
+    "R2": 0.8329922547416888
+  },
+  "final_test_metrics": {
+    "MAE_kg_ha": 434.60499485419695,
+    "RMSE_kg_ha": 746.1591292630778,
+    "R2": 0.6775359064894249
+  },
+  "evaluation_assumption": "Rolling one-step-ahead: prior observed yields are available for validation and test rows.",
+  "seed": 42,
+  "package_versions": {
+    "python": "3.14.10",
+    "pandas": "3.1.1",
+    "numpy": "2.5.5",
+    "scikit_learn": "1.9.1",
+    "joblib": "1.6.0",
+    "matplotlib": "3.11.2"
+  }
+}
