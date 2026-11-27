@@ -30,6 +30,7 @@ htmlcov/
 .agents/
 .DS_Store
 Thumbs.db
+assets/
 
 # Temporary files and logs
 *.log
